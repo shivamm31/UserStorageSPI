@@ -1,4 +1,4 @@
-package com.UserStorageSPI
+package com.userStorageSPI
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
